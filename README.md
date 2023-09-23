@@ -1,8 +1,6 @@
 ## 说明
 
-	此为《人工智能入门实践》（肖波等著）7.3节代码，中文文本分类示例程序
 	
-	其中：
 	
 	(1) trainTextCNN.py是训练TextCNN模型
 	  执行时，先处理数据集（data目录中的train.txt, dev.txt），
